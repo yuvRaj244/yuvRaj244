@@ -29,7 +29,7 @@ Repo: https://github.com/yuvRaj244/credit-card-cashback-ab-test
 ## Certifications
 
 - Microsoft Certified: Power BI Data Analyst (PL-300) https://tinyurl.com/y74x496u
-- Microsoft Certified: Azure Data Fundamentals (DP-900) https://tinyurl.com/axp2p9zr
+- Microsoft Certified: Azure Data Fundamentals (DP-900) [https://tinyurl.com/axp2p9zr](https://tinyurl.com/3drfwahh)
 
 ## Contact
 
